@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Darwin Esteban Cifuentes Garay</h1>
 <h3 align="center">| Full Stack Developer | JS, React.js, Next.js | Node.js |</h3>
 
-<h4>
-  From: Esteban Cifuentes
-To: You the best :D
-
+<h4>About me</h4>
+<p> <b>From: Esteban Cifuentes
+To: You the best :D</b>
+  
 I'm a programming lover who has fun acquiring knowledge and creating wonderful things.
-
 my experience with web developers are HTML, CSS javascript, React.Js, Node.js and SQL databases.
-
-just contact me if you would like someone like me in your team
-</h4>
+just contact me if you would like someone like me in your team</p>
 
 - 🔭 I’m currently working on [Arcane](https://arcanesneakers.netlify.app/)
 
